@@ -1,0 +1,39 @@
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: #142B5A;
+}
+.card-header{
+    background-color: #cbd2f4;
+}
+.card h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+.thead{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+.tbody{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.btn-checkout{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    background-color:#cbd2f4;
+    color: #101010;
+    border: 1px solid #cbd2f4;
+    outline: none;
+    border-radius: 10px;
+}
+.btn-checkout:hover{
+    background: white;
+    color: #2f49d1;
+    border: 1px solid #cbd2f4;
+}

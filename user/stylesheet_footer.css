@@ -1,0 +1,16 @@
+footer{
+    background: #2f49d1;
+}
+footer h5{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+}
+footer p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+    color: white;
+    
+}

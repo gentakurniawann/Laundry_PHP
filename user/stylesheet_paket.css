@@ -1,0 +1,54 @@
+h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: #142B5A;
+}
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: #142B5A;
+}
+h4{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    color: #142B5A;
+}
+.card-header{
+    background-color: #cbd2f4;
+}
+.btn-buy{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #142B5A;
+    border: 2px solid #cbd2f4;
+    outline: none;
+    border-radius: 5px;
+}
+.btn-buy:hover{
+    color: #cbd2f4;
+    background-color: #2f49d1;
+    border: 2px solid #2f49d1;
+    outline: none;
+    border-radius: 5px;
+}
+.btn-search{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #142B5A;
+    background-color: #cbd2f4;
+    border: 1px solid #cbd2f4;
+    outline: none;
+    border-radius: 5px; 
+}
+.btn-search:hover{
+    color: #cbd2f4;
+    background-color: #2f49d1;
+    border: 1px solid #2f49d1;
+    outline: none;
+    border-radius: 5px;
+}

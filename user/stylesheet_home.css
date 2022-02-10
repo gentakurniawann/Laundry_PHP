@@ -1,0 +1,129 @@
+body{
+    background-color: white;
+}
+h1{
+    color: #142B5A;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+h2{
+    color: #142B5A;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+.fas{
+    color: #142B5A;
+}
+h5{
+    color: #142B5A;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.tentang p{
+    color: #142B5A;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+}
+.paket-terlaris h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: #142B5A;
+}
+.paket-terlaris h4{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    color: #142B5A;
+}
+.paket-terlaris .card-header{
+    background-color: #cbd2f4;
+}
+.paket-terlaris .btn-buy{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #142B5A;
+    border: 2px solid #cbd2f4;
+    outline: none;
+    border-radius: 5px;
+}
+.paket-terlaris .btn-buy:hover{
+    color: #cbd2f4;
+    background-color: #2f49d1;
+    border: 2px solid #2f49d1;
+    outline: none;
+    border-radius: 5px;
+}
+.testimoni img{
+    max-width: 100px;
+    border-radius: 50%;
+    margin: 15px auto 0;
+    box-shadow: 0 8px 20px -4px #95abbb;
+    width: 100px;
+    height: 100px;
+}
+.card-testi{
+    background:  #cbd2f4;
+    box-shadow: 0 8px 30px -7px #c9dff0;
+    margin: 0 20px;
+    padding: 0 10px;
+    border-radius: 20px;
+    border: 0;
+}
+.testimoni h5{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #142B5A;
+}
+.testimoni p{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    color: #142B5A;
+}
+.btn-banner{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    background-color:#cbd2f4;
+    color: #142B5A;
+    border: 1px solid #cbd2f4;
+    outline: none;
+    border-radius: 5px;
+}
+.btn-banner:hover{
+    background: white;
+    color: #142b5a;
+    border: 1px solid;
+}
+.banner p{
+    color: #BCBCBC;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+}
+.form-control{
+    border-style:solid ;
+    border: 2px solid #cbd2f4;
+}
+.btn-kirimpesan{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    background-color:#cbd2f4;
+    color: #142B5A;
+    border: 1px solid #cbd2f4;
+    outline: none;
+    border-radius: 5px;
+}
+.btn-kirimpesan:hover{
+    background: white;
+    color: #142b5a;
+    border: 1px solid;
+}
